@@ -2,7 +2,8 @@
 .appVersion = "3124";
 .formatVersion = 3;
 DisplayStrings = (
-"Ə"
+"Ə",
+n
 );
 axes = (
 {
@@ -540,7 +541,7 @@ tag = dlig;
 fontMaster = (
 {
 axesValues = (
-600
+270
 );
 customParameters = (
 {
@@ -614,7 +615,7 @@ visible = 1;
 },
 {
 axesValues = (
-700
+300
 );
 customParameters = (
 {
@@ -12171,7 +12172,7 @@ unicode = 87;
 glyphname = Wacute;
 kernLeft = W;
 kernRight = W;
-lastChange = "2022-04-29 18:12:25 +0000";
+lastChange = "2022-04-29 19:23:20 +0000";
 layers = (
 {
 layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
@@ -12180,11 +12181,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (1056,360);
+pos = (1046,360);
 ref = acutecomb;
 }
 );
-width = 2088;
+width = 2068;
 },
 {
 layerId = "6B540EA0-879E-4877-ADBF-1E90C7170424";
@@ -12206,7 +12207,7 @@ unicode = 7810;
 glyphname = Wcircumflex;
 kernLeft = W;
 kernRight = W;
-lastChange = "2022-04-29 18:12:25 +0000";
+lastChange = "2022-04-29 19:23:20 +0000";
 layers = (
 {
 layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
@@ -12215,11 +12216,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (1056,360);
+pos = (1046,360);
 ref = circumflexcomb;
 }
 );
-width = 2088;
+width = 2068;
 },
 {
 layerId = "6B540EA0-879E-4877-ADBF-1E90C7170424";
@@ -12241,7 +12242,7 @@ unicode = 372;
 glyphname = Wdieresis;
 kernLeft = W;
 kernRight = W;
-lastChange = "2022-04-29 18:12:25 +0000";
+lastChange = "2022-04-29 19:23:20 +0000";
 layers = (
 {
 layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
@@ -12250,11 +12251,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (1056,360);
+pos = (1046,360);
 ref = dieresiscomb;
 }
 );
-width = 2088;
+width = 2068;
 },
 {
 layerId = "6B540EA0-879E-4877-ADBF-1E90C7170424";
@@ -12276,7 +12277,7 @@ unicode = 7812;
 glyphname = Wgrave;
 kernLeft = W;
 kernRight = W;
-lastChange = "2022-04-29 18:12:25 +0000";
+lastChange = "2022-04-29 19:23:20 +0000";
 layers = (
 {
 layerId = "1B5AC656-48C3-4864-953F-2CD31E7BA751";
@@ -12285,11 +12286,11 @@ shapes = (
 ref = W;
 },
 {
-pos = (1056,360);
+pos = (1046,360);
 ref = gravecomb;
 }
 );
-width = 2088;
+width = 2068;
 },
 {
 layerId = "6B540EA0-879E-4877-ADBF-1E90C7170424";
@@ -50307,7 +50308,8 @@ axesValues = (
 600
 );
 instanceInterpolations = {
-"1B5AC656-48C3-4864-953F-2CD31E7BA751" = 1;
+"1B5AC656-48C3-4864-953F-2CD31E7BA751" = -10;
+"6B540EA0-879E-4877-ADBF-1E90C7170424" = 11;
 };
 name = SemiBold;
 weightClass = 600;
@@ -50317,7 +50319,8 @@ axesValues = (
 700
 );
 instanceInterpolations = {
-"6B540EA0-879E-4877-ADBF-1E90C7170424" = 1;
+"1B5AC656-48C3-4864-953F-2CD31E7BA751" = -13.33333;
+"6B540EA0-879E-4877-ADBF-1E90C7170424" = 14.33333;
 };
 isBold = 1;
 name = Bold;
