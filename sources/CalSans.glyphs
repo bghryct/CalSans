@@ -42,6 +42,15 @@ value = (
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+wght = {
+600 = 270;
+700 = 300;
+};
+};
 }
 );
 date = "2022-04-29 18:12:07 +0000";
@@ -50305,22 +50314,20 @@ width = 430;
 instances = (
 {
 axesValues = (
-600
+270
 );
 instanceInterpolations = {
-"1B5AC656-48C3-4864-953F-2CD31E7BA751" = -10;
-"6B540EA0-879E-4877-ADBF-1E90C7170424" = 11;
+"1B5AC656-48C3-4864-953F-2CD31E7BA751" = 1;
 };
 name = SemiBold;
 weightClass = 600;
 },
 {
 axesValues = (
-700
+300
 );
 instanceInterpolations = {
-"1B5AC656-48C3-4864-953F-2CD31E7BA751" = -13.33333;
-"6B540EA0-879E-4877-ADBF-1E90C7170424" = 14.33333;
+"6B540EA0-879E-4877-ADBF-1E90C7170424" = 1;
 };
 isBold = 1;
 name = Bold;
